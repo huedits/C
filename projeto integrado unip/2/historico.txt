@@ -1,0 +1,8 @@
+Saque realizado no valor de R$100.00 - Saldo Atual: R$ 1000.00
+Deposito realizado no valor de R$1000.00 - Saldo Atual: R$ 2000.00
+Saque realizado no valor de R$300.00 - Saldo Atual: R$ 1700.00
+Saque realizado no valor de R$700.00 - Saldo Atual: R$ 1000.00
+Transferencia realizada no valor de R$500.00 para a conta 1 - Saldo Atual: R$ 500.00
+Transferencia recebida no valor de R$500.00 da conta 1 - Saldo Atual: R$ 1000.00
+Transferencia recebida no valor de R$100.00 da conta 1 - Saldo Atual: R$ 1100.00
+Saque realizado no valor de R$200.00 - Saldo Atual: R$ 900.00

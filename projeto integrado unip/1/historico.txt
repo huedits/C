@@ -1,0 +1,6 @@
+Transferencia recebida no valor de R$500.00 da conta 2 - Saldo Atual: R$ 1500.00
+Saque realizado no valor de R$200.00 - Saldo Atual: R$ 1300.00
+Transferencia realizada no valor de R$500.00 para a conta 2 - Saldo Atual: R$ 800.00
+Deposito realizado no valor de R$200.00 - Saldo Atual: R$ 1000.00
+Deposito realizado no valor de R$500.00 - Saldo Atual: R$ 1500.00
+Transferencia realizada no valor de R$100.00 para a conta 2 - Saldo Atual: R$ 1400.00
